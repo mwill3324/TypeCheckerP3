@@ -1,0 +1,37 @@
+TYPE
+p, q : BOOLEAN;
+a, b : REAL;
+c : a;
+l, m, n : LONG;
+d : STRING;
+VAR
+j, k: LONG;
+o, r : BOOLEAN;
+x : e;
+y : c;
+test : d;
+{
+a1 = 100.0;
+b1 = a1 + (10.0 * 50.0);
+z = 1 / 50;
+WHILE y >= 3.3{
+SWITCH z
+{
+CASE 1:
+{
+foo = 0.0;
+}
+CASE 2:
+{
+test = test * test;
+}
+	}
+}
+h = x;
+s = r;
+f1 = f2;
+f2 = f3;
+f3 = f4;
+f4 = f5;
+f5 = r;
+}

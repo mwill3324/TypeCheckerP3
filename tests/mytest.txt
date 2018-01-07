@@ -1,0 +1,11 @@
+TYPE
+    a : INT;
+    b : a;
+    c : b;
+    d : c;
+VAR
+    v : d;
+{
+    a = a + 1;
+}
+

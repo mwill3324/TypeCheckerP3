@@ -1,0 +1,12 @@
+TYPE
+   q, r, s: BOOLEAN;
+   u, v : LONG;
+VAR
+   a : r;
+   b : q;
+   c : u;
+   d : v;
+{
+ a = b;
+}
+

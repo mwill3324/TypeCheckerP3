@@ -1,0 +1,7 @@
+TYPE
+    x, y, z: boo;
+         r : REAL;
+{
+    boo = 1;
+}
+

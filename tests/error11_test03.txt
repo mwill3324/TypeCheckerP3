@@ -1,0 +1,36 @@
+TYPE
+   q, r, s: BOOLEAN;
+   nm, x : t1;
+   na, y : t2;
+VAR
+   u, v : REAL;
+   n, o : INT;
+   a : m;
+   b : k;
+   c : REAL;
+   d : REAL;
+   e : x;
+   f : y;
+   s1 : nm;
+   s2 : na;
+{
+    s1 = v;
+    s2 = o;
+    a = f;
+    b = e;
+    c = c + e;
+SWITCH b
+{
+CASE 1:
+{
+foo = 0.0;
+}
+CASE 2:
+{
+test = test * test;
+}
+}
+
+}
+
+

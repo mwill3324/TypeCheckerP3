@@ -1,0 +1,10 @@
+TYPE
+  t1, t2: BOOLEAN;
+VAR
+  a, b, c: t1;
+  x, y, z: t2;
+{
+    a = a * (b + (c / a) * (b + c)) + a * c;
+    z = z + x / y * (c + x);
+}
+
